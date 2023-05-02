@@ -12,10 +12,7 @@ Password
 <<sp  
 Title           : Learning comment
 description     :
-author		     :myLANDMARK.tech S Legah
-date            :08112012
-version         :1.0    
-Tel		     :437 215 2483
+author		     :Simon
 pwd
 sp
 <<comment
