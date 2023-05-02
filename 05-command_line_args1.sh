@@ -2,9 +2,6 @@
 #title           :
 #description     :
 #author		     :Simon
-
-
-
 #Number of arguments on the command line.
 echo '$#:' $#
 #Process number of the current process.
