@@ -1,7 +1,7 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :myLANDMARK.tech S Legah
+#author		     :Simon
 
 echo "SHELL is: " $SHELL
 echo "BASH_VERSION is: " $BASH_VERSION
