@@ -49,7 +49,7 @@ devfn
 ______________________________________
 
 # Script to adduser
-# Author Landmark Technology
+# Author Simon
 # This script will create a user account
 # You need to be root or have sudo access to execute
 echo -n "Enter the username: "
