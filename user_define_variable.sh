@@ -1,6 +1,6 @@
 #!/bin/bash      
 
-name="Simon Legah"
+name="Simon"
 id=08112012
 
 echo "The name varibale value is: "$name
